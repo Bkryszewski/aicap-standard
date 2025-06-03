@@ -1,0 +1,11 @@
+Validation Summary for: El General – In the Shadow of Giants
+Author: Brian Kryszewski
+Standard: AICAP v1.0
+
+Audit Results:
+✅ Authorship chain of custody confirmed
+✅ AI used for formatting and multilingual adaptation only
+✅ No signs of hallucinated or synthetic content
+✅ Declaration of methodology on GitHub and publication
+
+Status: PASS – Compliant with AICAP Certification

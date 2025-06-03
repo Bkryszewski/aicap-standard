@@ -1,0 +1,9 @@
+AICAP Checklist – Author Validation (v1.0)
+
+- [ ] Human-authored concept and outline documented
+- [ ] Historical or source research cited and attributed
+- [ ] Tracked changes or version control used
+- [ ] Final manuscript reviewed and approved by human
+- [ ] AI agent contributions documented and disclosed
+- [ ] Policy compliance statement included
+- [ ] Badge used appropriately (non-deceptive placement)
